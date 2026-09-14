@@ -1,4 +1,5 @@
-{
+{To write a "Hello, World!" program in Python, use the built-in print() function. [1] (https://www.geeksforgeeks.org/python/python-program-to-print-hello-world/), [2] (https://www.programiz.com/python-programming/examples/hello-world)Here is the exact code you need: [1] (https://www.geeksforgeeks.org/python/python-program-to-print-hello-world/)pythonprint("Hello, World!")
+Use code with caution.
     
     public static void main(String[] args){
         
