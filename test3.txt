@@ -1,1 +1,6 @@
-i am very confident
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}i am very confident
